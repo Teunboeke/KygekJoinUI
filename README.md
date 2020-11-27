@@ -1,4 +1,4 @@
-# KygekJoinUI
+# JoinUI
 
 A plugin for PocketMine-MP that will show an UI for information and guides of the server when players joins the server.
 
